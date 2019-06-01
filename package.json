@@ -1,0 +1,22 @@
+{
+  "name": "lazy-load-youtube-videos",
+  "version": "1.0.0",
+  "description": "Optimizing the performance while loading multiple YouTube videos on the same page",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloManrique/lazy-load-youtube-videos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamiloManrique/lazy-load-youtube-videos/issues"
+  },
+  "homepage": "https://github.com/CamiloManrique/lazy-load-youtube-videos#readme"
+}
