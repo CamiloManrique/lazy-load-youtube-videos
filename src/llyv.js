@@ -28,7 +28,7 @@
       // Construct iframe
       videos[i].addEventListener('click', function() {
           var iframe = document.createElement('iframe');
-          iframe.setAttribute("src", "https://www.youtube.com/embed/" + this.dataset.id + "?rel=0&showinfo=0&autoplay=1");
+          iframe.setAttribute("src", "https://www.youtube.com/embed/" + this.dataset.id + "?rel=0&showinfo=0&autoplay=1&mute=1");
           iframe.setAttribute("frameborder", "0");
           iframe.setAttribute("allowfullscreen", "");
           while (this.firstChild) {
